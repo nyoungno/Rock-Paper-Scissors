@@ -13,4 +13,10 @@
 * CSS
 * Vanila Javascript
 
-## 웹사이트 링크 :
+## 프로젝트에서 다루는 주요 개념은 다음과 같습니다:
+* addEventListener()
+* Math.floor()
+* Math.random()
+* switch문
+
+## 웹사이트 링크 : <https://nyoungno-RockPaperScissors.netlify.app/>
