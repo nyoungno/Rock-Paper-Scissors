@@ -90,6 +90,7 @@ header > h1 {
     font-weight: bold;
     font-size: 20px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .green-glow {
@@ -105,4 +106,15 @@ header > h1 {
 .gray-glow {
     border: 4px solid #454547;
     box-shadow: 0 0 10px #25292b;
+}
+
+.back_box {
+    display: flex;
+    justify-content: center;
+}
+
+.img_move {
+    display: flex;
+    justify-content: flex-end;
+    width: 350px;
 }
